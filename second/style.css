@@ -1,0 +1,37 @@
+div{
+
+	float: left;
+	width: calc(100%/3);
+	height: 100vh;
+	border-width: 10px;
+	border-color: black;
+	margin:0;
+}
+
+.left {
+	background-color: #4A90E2;
+}
+
+.middle {
+	background-color: #50E3C2;
+
+}
+
+.right {
+
+	background-color: #B8E986;
+}
+
+footer{
+	box-sizing: border-box;
+	text-align: center;
+	padding-top: 7%;
+	font-size: 15px;
+	color: white;
+	background-color: #D0021B;
+	position: absolute;
+	bottom: 0;
+	width: 33%;
+	height: 200px;
+	margin-bottom: 0;
+}

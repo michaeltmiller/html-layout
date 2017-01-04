@@ -1,0 +1,46 @@
+.white {
+	padding:50px;
+	box-sizing: border-box;	
+	font-size: 24px;
+	color:black;
+	height: 28%;
+	background-color: white;
+}
+.blue{
+	padding:7.5%;
+	background-color: #4A90E2;
+}
+
+.teal{
+	padding:7.5%;
+	background-color: #50E3C2;
+}
+
+.green{
+	padding:7.5%;
+	background-color: #B8E986;
+}
+
+.yellow{
+	padding:8%;
+	background-color: #F8E71C;
+}
+
+header{
+	padding:10px;
+	height: 11.5%;
+	background-color: #D8D8D8;
+	box-sizing: border-box;
+}
+
+.square{
+	margin-left: 25px;
+	height: 100px;
+	width: 100px;
+	background-color: #4A90E2;
+}
+
+body{
+	height:1024px;
+	margin: 0;
+}
